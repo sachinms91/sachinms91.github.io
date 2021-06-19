@@ -15,7 +15,7 @@ timezone: Asia/Kolkata
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Sachin M S, Full Stack .NET Dev                        # the main title
+title: DevBlogs                       # the main title
 
 tagline: Developer blogs   # it will display as the sub-title
 
