@@ -15,12 +15,12 @@ timezone: Asia/Kolkata
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Sachin M S .NET Full Stack Developer                         # the main title
+title: Sachin M S, Full Stack .NET Dev                        # the main title
 
 tagline: Developer blogs   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A Blog for .NET Full stack and Mircosoft Azure related resources
+  A Blog for .NET Full stack Devs and Mircosoft Azure enthusiasts
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://sachinms91.github.io/my-personal-blog'
@@ -42,7 +42,7 @@ social:
     - https://github.com/username       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/sachinms91
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
@@ -75,14 +75,14 @@ theme_mode:   # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn.jsdelivr.net/gh/sachinms91/blog-images/avatars/Avatar.JPG
+avatar: https://cdn.jsdelivr.net/gh/sachinms91/blog-images/avatars/AvatarCropped.JPG
 
 # boolean type, the global switch for ToC in posts.
 toc: true
 
 disqus:
-  comments: false  # boolean type, the global switch for posts comments.
-  shortname: ''    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+  comments: true  # boolean type, the global switch for posts comments.
+  shortname: 'sachinms91' # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 paginate: 10
 
