@@ -23,7 +23,7 @@ description: >-                        # used by seo meta and the atom feed
   A Blog for .NET Full stack and Cloud computing related resources
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://sachinms91.github.io'
 
 github:
   username: sachinms91             # change to your github username
