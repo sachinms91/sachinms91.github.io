@@ -14,8 +14,6 @@ platforms:
     type: Whatsapp
     icon: "fab fa-whatsapp"
     link: "whatsapp://send?/text=TITLE&url=URL"
-
-  # Uncomment below if you need to.
   -
     type: Linkedin
     icon: "fab fa-linkedin"
