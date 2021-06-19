@@ -6,7 +6,7 @@ categories: [Technology, Azure]
 tags: [AZ204]
 ---
 
-# Study guide for AZ 204 — Microsoft Certified: Azure Developer Associate
+
 ### About Microsoft Azure and AZ 204 exam
 
 ![Badge](https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/AZ-204-Badge.png)
