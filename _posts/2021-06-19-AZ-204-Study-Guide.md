@@ -1,6 +1,7 @@
 ---
 title: Study guide for AZ-204 Azure Developer Associate
 author: Sachin M S
+header-img: "https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/AZ-204-Badge.png"
 date: 2021-06-19 19:40:00 +0800
 categories: [Technology, Azure]
 tags: [AZ204]
