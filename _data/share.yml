@@ -16,7 +16,7 @@ platforms:
     link: "whatsapp://send?/text=TITLE&url=URL"
 
   # Uncomment below if you need to.
-  # -
+  -
     type: Linkedin
      icon: "fab fa-linkedin"
      link: "https://www.linkedin.com/sharing/share-offsite/?url=URL"
