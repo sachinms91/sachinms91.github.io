@@ -20,7 +20,7 @@ title: Sachin M S, Full Stack .NET Dev                        # the main title
 tagline: Developer blogs   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A Blog for .NET Full stack Devs and Mircosoft Azure enthusiasts
+  DevBlogs
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://sachinms91.github.io/my-personal-blog'
