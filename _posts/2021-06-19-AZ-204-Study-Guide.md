@@ -1,8 +1,9 @@
 ---
 title: Study guide for AZ 204 Azure Developer Associate
+author: Sachin M S
 date: 2021-06-19 19:40:00 +0800
 categories: [Azure Developer Certifcation, AZ-204]
-tags: [azuredeveloper] [az204] [azurecertification] [azure]
+tags: [AZ-204]
 ---
 
 # Study guide for AZ 204 — Microsoft Certified: Azure Developer Associate
