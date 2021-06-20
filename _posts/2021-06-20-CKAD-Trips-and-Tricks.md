@@ -7,6 +7,7 @@ categories: [Technology, Kubernetes]
 tags: [CKAD]
 image: "https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/thumbnails/ckad.png"
 ---
+
 ![Badge]("https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/thumbnails/ckad.png")
 
  I had appeared for Certified Kubernetes Application Developer (CKAD) exam and cleared it successfully. The Certified Kubernetes Application Developer exam certifies that users can design, build, configure, and expose cloud native applications for Kubernetes.
