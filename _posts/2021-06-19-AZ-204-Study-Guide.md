@@ -29,7 +29,7 @@ AZ-203/204 — Developing Solutions for Azure — UPDATED 2020
 It is one of the most comprehensive courses out there in the market. Alan ensures that he covers all
 the subtopics mentioned in the exam objective. Literally, he has covered all topics with labs/hands-on. Please refer below URL to see the complete set of topics required for the exam. The course might seem overwhelming initially as it is of 22 hours of content but trust me it’s worth investing 22 hours to learn concepts required for an Azure developer and his practice tests are top-notch. There are quite a few other courses on Udemy which touch base concepts on a very high level which might not be sufficient to clear the exam.
 
- [Exam topics for AZ 204 by domain](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oZ7B)
+ [Exam topics for AZ 204 by domain](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oZ7B){:target="_blank"}
  
 ### Exam
 
