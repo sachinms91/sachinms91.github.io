@@ -5,7 +5,7 @@ header-img: "https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/AZ-204-Ba
 date: 2021-06-19 19:40:00 +0800
 categories: [Technology, Azure]
 tags: [AZ204]
-image: "https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/thumbnails/AZ-204-Badge.png"
+image: "https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/thumbnails/AZ-204-Badge-Thumbnail.png"
 ---
 
 
