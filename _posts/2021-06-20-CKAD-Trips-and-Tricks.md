@@ -8,9 +8,8 @@ tags: [CKAD]
 image: "https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/thumbnails/ckad.png"
 ---
 
-### Tips and tricks to ace CKAD exam!
 
-![Badge](https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/thumbnails/ckad.png)
+![Badge](	)
 
  I had appeared for Certified Kubernetes Application Developer (CKAD) exam and cleared it successfully. The Certified Kubernetes Application Developer exam certifies that users can design, build, configure, and expose cloud native applications for Kubernetes.
 A Certified Kubernetes Application Developer can define application resources and use core primitives to build, monitor, and troubleshoot scalable applications and tools in Kubernetes.It is an open-book exam. 
@@ -55,19 +54,19 @@ The ‘-e‘ option in Linux acts as interpretation of escaped characters that a
 7. Concentrate on difference between CMD and ENTRYPOINT difference in docker. Again I would recommend Zeal Vora’s course for this.
 8. Remember to memorize the options for “kubectl run” rather than using “explain” command
 
-```kubectl run NAME — image=image [ — env=”key=value”] [ — port=port] [ — dry-run=server|client]```
-```[ — overrides=inline-json] [ — command] — [COMMAND] [args…] [options]```
+	```kubectl run NAME — image=image [ — env=”key=value”] [ — port=port] [ — dry-run=server|client]```
+	```[ — overrides=inline-json] [ — command] — [COMMAND] [args…] [options]```
 
 9. Use kubectl ‘Explain’ command with recursive flag and ‘less’ as shown. This would help to show output without overwhelming text throughout the terminal.
 
-```kubectl explain cronjob.spec.jobTemplate — recursive | less```
+	```kubectl explain cronjob.spec.jobTemplate — recursive | less```
 10. Persistent Volume (PV), Persistent Volume Claim(PVC) and NetworkPolicy objects cannot be created using imperative commands hence remember write yaml from scratch.
 11. Concentrate on logging feature of k8’s. Logging pattern with Adaptor/Side car container pattern would be helpful. I would recommend Zeal Vora’s CKAD course on Udemy for this topics as he has covered all topics on logging pretty well.
 12. VIM settings edit with “vi ~/.vimrc”
 
-```set nu```
-```autocmd FileType yaml setlocal et ts=2 ai sw=2 nu sts=0```
-```set paste```
+	```set nu```
+	```autocmd FileType yaml setlocal et ts=2 ai sw=2 nu sts=0```
+	```set paste```
 
 13. Use “Ctrl+d” to exit a container when you are running bash shell on a container inside a pod or type ‘exit’
 14. To indent multiple lines using vim you should set the shiftwidth using :set shiftwidth=2. Then mark multiple lines using Shift v and the up/down keys.To then indent the marked lines to Shift . or Shift ,
