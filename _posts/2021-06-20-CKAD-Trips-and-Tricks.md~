@@ -28,7 +28,7 @@ This exam curriculum includes these general domains and their weights on the exa
 I would not delve into tips of exam which are pretty much out there in tons of the other articles. I would like to highlight points whatever I felt were missing out according to me.
 
 Below are my two cents advice which might be helpful:
-1. First and foremost, if you are not familiar or don’t have exposure to Linux operating system/Linux terminal commands then I would recommend taking a crash course on Linux.I would suggest this  [LinkedIn learning course](https://www.linkedin.com/learning/learning-linux-command-line-2/learning-linux-command-line?u=68385001){:target="_blank"}. Knowledge of the Linux command line is critical for anyone who uses this open-source operating system. For many tasks…
+1. First and foremost, if you are not familiar or don’t have exposure to Linux operating system/Linux terminal commands then I would recommend taking a crash course on Linux.I would suggest this  [LinkedIn learning course](https://www.linkedin.com/learning/learning-linux-command-line-2/learning-linux-command-line?u=68385001) {:target="_blank"}. Knowledge of the Linux command line is critical for anyone who uses this open-source operating system. For many tasks…
 
 2. Imminently, practice is the key for the exam. Try to skip questions with low weightage by flagging them and attend them towards end if time permits. Time management is the key for the exam.
 3. Go through all “Tasks” section of official Kubernetes documentation page. If possible, bookmark all tasks accordingly as they would be handy for quick search.

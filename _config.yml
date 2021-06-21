@@ -17,10 +17,10 @@ timezone: Asia/Kolkata
 # --------------------------
 title: Sachin M S                       # the main title
 
-tagline: Dev Tech Blogs   # it will display as the sub-title
+tagline: Dev Tech Blogs (DTB)  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  DevBlogs
+  Blogs related developers and technologies especially into ASP.NET, C#, .NET Core, ReactJS and Microsoft Azure 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://devtechblogs.com'
@@ -75,7 +75,8 @@ theme_mode:   # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn.jsdelivr.net/gh/sachinms91/blog-images/avatars/AvatarCropped.jpg
+#avatar: https://cdn.jsdelivr.net/gh/sachinms91/blog-images/avatars/AvatarCropped.jpg
+avatar: https://cdn.jsdelivr.net/gh/sachinms91/blog-images/avatars/LinkedinAvatar.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
