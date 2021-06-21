@@ -17,7 +17,7 @@ timezone: Asia/Kolkata
 # --------------------------
 title: Sachin M S                       # the main title
 
-tagline: Dev Tech Blogs (DTB)  # it will display as the sub-title
+tagline: Dev Tech Blogs # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Blogs related developers and technologies especially into ASP.NET, C#, .NET Core, ReactJS and Microsoft Azure 
