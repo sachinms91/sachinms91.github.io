@@ -77,7 +77,7 @@ img_cdn: ''
 # the avatar on sidebar, support local or CORS resources
 #avatar: https://cdn.jsdelivr.net/gh/sachinms91/blog-images/avatars/AvatarCropped.jpg
 #avatar: https://cdn.jsdelivr.net/gh/sachinms91/blog-images/avatars/LinkedinAvatar.jpg
-avatar: https://cdn.jsdelivr.net/gh/sachinms91/blog-images/avatars/DevTechBlogs-Logo-Latest.png
+avatar: https://cdn.jsdelivr.net/gh/sachinms91/blog-images/avatars/DevBlogs-Logo-Final.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
