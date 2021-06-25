@@ -8,7 +8,7 @@ tags: [VS2022]
 image: "https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/VS2022Preview/BlogImage.png"
 ---
 
- ![BlogImage] ("https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/VS2022Preview/BlogImage.png")
+ ![BlogImage](https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/VS2022Preview/BlogImage.png)
 
 Microsoft has recently announced the Visual Studio 2022 preview version which promises to be faster, more lightweight, better scalability for the enterprise large solution.
  One of the key highlights in Visual Studio 2022 is that the core devenv.exe process will be a 64-bit application. It will have much more advantages of getting a larger data set, using more CPU registers, and taking advantage of more than 4GB of memory. 
