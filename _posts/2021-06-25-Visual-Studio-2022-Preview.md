@@ -2,7 +2,7 @@
 title: Visual Studio 2022 will be a 64 bit application and how? 
 author: Sachin M S
 header-img: "https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/VS2022Preview/BlogImage.png"
-date: 2021-06-25 18:20:00 +0800
+date: 2021-06-25 18:20:00 +0530
 categories: [Technology, Visual Studio 2022]
 tags: [VS2022]
 image: "https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/VS2022Preview/BlogImage.png"
