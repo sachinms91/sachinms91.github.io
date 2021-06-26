@@ -1,5 +1,5 @@
 ---
-title: Trips and Tricks for CKAD exam
+title: Tips and Tricks for CKAD exam
 author: Sachin M S
 header-img: "https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/thumbnails/ckad.png"
 date: 2021-06-21 00:30:00 +0800
