@@ -15,6 +15,6 @@
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
   url:  'https://www.linkedin.com/in/sachinms91/'                  # Fill with your Linkedin homepage
 -
-  type: stack-overflow
-  icon: 'fab fa-stack-overflow'
-  url:  'https://stackoverflow.com/users/12472239/sachin-m-s?tab=profile'    # Fill with your stackoverflow homepage
+  type: youtube
+  icon: 'fab fa-youtube'
+  url:  'https://www.youtube.com/channel/UCnqWxqWaQPfl-gJj6oKaSjg'    # Fill with your youtube channel homepage
