@@ -18,8 +18,8 @@ Ever since  Microsoft announced  Windows 11 OS it has been hogging limelight due
 
 Netizens were quick enough to point out this bug/missing feature. After facing much of the flak from users, Microsoft has managed to fix this pretty quickly in one of the newer Windows 11 build (OS Build 22000.65)
 
-Happy to see "Refresh" option back in right click context menu! 
-
 |![Image](https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/Windows11/Windows11-Refresh.png)|
 |:--:|
 | Fig. 2 - Refresh present in right click context menu in latest Windows 11 build |
+
+Happy to see "Refresh" option back in right click context menu! 
