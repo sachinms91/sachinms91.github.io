@@ -24,6 +24,7 @@ The conventional ASP\. NET Core API's/Web projects involved lot of ceremonies as
  |![Fig1](https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/MinimalAPI/Cermonies.PNG)|
  |:--:|
  | Fig. 1 - Ceremonies involved in a conventional ASP\.NET Core APIs|
+ 
 Imagine if a novice developer is trying to understand the above bits of defaults whose intention is to quickly build an API endpoint! Sounds too complicated, isn't it?
 
 ## What is a Minimal API?
@@ -40,7 +41,7 @@ dotnet new web -o MinApi
 ```
  |![Fig2](https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/MinimalAPI/MinApiProject.PNG)|
  |:--:|
- | Fig. 2 - MinApi project template scaffolding in Visual Studio 2022 Preview |
+ | Fig. 2 - MinApi project template scaffolding in Visual Studio 2022 Preview|
 
 That's it! You have your first minimal API ready. Whatever goes into the lambda function (2nd parameter to MapGet method) below acts as an API endpoint.  
 
