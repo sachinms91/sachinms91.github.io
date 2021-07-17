@@ -22,8 +22,7 @@ The conventional ASP\. NET Core API's/Web projects involved lot of ceremonies as
 4. ```Startup.cs``` has ```Configure``` and ```ConfigureServices``` methods to configure HTTP request pipeline and handle Dependency Injection(DI).
 
  ![Fig1](https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/MinimalAPI/Cermonies.PNG)
- |:--:|
- | Fig. 1 - Ceremonies involved in a conventional ASP\.NET Core APIs|
+  Fig. 1 - Ceremonies involved in a conventional ASP\.NET Core APIs
  
 Imagine if a novice developer is trying to understand the above bits of defaults whose intention is to quickly build an API endpoint! Sounds too complicated, isn't it?
 
@@ -39,9 +38,8 @@ Open windows terminal/command prompt from any folder and type the below command 
 ```csharp
 dotnet new web -o MinApi
 ```
- |![Fig2](https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/MinimalAPI/MinApiProject.PNG)|
- |:--:|
- | Fig. 2 - MinApi project template scaffolding in Visual Studio 2022 Preview|
+ ![Fig2](https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/MinimalAPI/MinApiProject.PNG)
+  Fig. 2 - MinApi project template scaffolding in Visual Studio 2022 Preview
 
 That's it! You have your first minimal API ready. Whatever goes into the lambda function (2nd parameter to MapGet method) below acts as an API endpoint.  
 
@@ -53,9 +51,8 @@ To see the real benefits of minimal API examine carefully how we can simplify an
 
 Each of the HTTP verbs get mapped to ```app.Map<HttpVerb>()``` methods in minimal API.
 
- |![Fig3](https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/MinimalAPI/ApiControllerVersusMinimalApi.PNG)|
- |:--:|
- | Fig. 3 - API methods of a conventional APiController versus Minimal API|
+ ![Fig3](https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/MinimalAPI/ApiControllerVersusMinimalApi.PNG)
+  Fig. 3 - API methods of a conventional APiController versus Minimal API
 
 It is evident from above that developers can now write APIs in ASP\. NET Core with fewer lines of code in a simpler way! Having said that, minimal APIs doesnt take away any of .NET Core features. All it does is to reduce API boilerplate code. 
 ## How Dependency Injection works with Minimal API?
