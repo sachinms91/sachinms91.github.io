@@ -2,7 +2,7 @@
 title: Build a Minimal API in .NET 6
 author: Sachin M S
 header-img: "https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/MinimalAPI/BlogPostHeader.jpg"
-date: 2021-07-17 20:15:00 +0330
+date: 2021-07-17 17:15:00 +0330
 categories: [Technology, .NET 6]
 tags: [.NET 6 Minimal API]
 image: "https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/MinimalAPI/BlogPostHeader.jpg"
