@@ -21,7 +21,7 @@ The conventional ASP\. NET Core API's/Web projects involved lot of ceremonies as
 3. ```ConfigureWebHostDefaults``` will be invoked to use ```Startup.cs``` file. 
 4. ```Startup.cs``` has ```Configure``` and ```ConfigureServices``` methods to configure HTTP request pipeline and handle Dependency Injection(DI).
 
- |![Fig1](https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/MinimalAPI/Cermonies.PNG)|
+ ![Fig1](https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/MinimalAPI/Cermonies.PNG)
  |:--:|
  | Fig. 1 - Ceremonies involved in a conventional ASP\.NET Core APIs|
  
@@ -45,7 +45,7 @@ dotnet new web -o MinApi
 
 That's it! You have your first minimal API ready. Whatever goes into the lambda function (2nd parameter to MapGet method) below acts as an API endpoint.  
 
-```csharp
+```cs
 app.MapGet("/", () => "Hello World!");
 ```
 
