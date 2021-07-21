@@ -47,6 +47,7 @@ function toggleHidden(id){
 		<div>
 		You can unsubscribe from the mailing list at any time if you wish to do so.
 		</div>
+
 		<div class="form-group">
 			<div>
             <h3>SIGN UP</h3>
@@ -57,6 +58,7 @@ function toggleHidden(id){
 				<label for="mce-EMAIL"><i class="fas fa-envelope fa-lg me-3 fa-fw"></i> Email address</label>
 				<input type="email" value="" name="EMAIL" class="form-control col-lg-7" id="mce-EMAIL" aria-describedby="emailHelp" placeholder="Enter your Email">
 				<small id="emailHelp" class="form-text text-danger">*Your email will be added to mailing list only and will never be shared with anyone else</small>
+				<small id="privacyHelp" class="form-text text-danger">*Please refer <a href="/privacy-policy">Privacy Policy</a> for more details</small>
 				<div id="subscribe-success" style="display:none;"><small class="form-text text-success" >*Congrats! You have subscribed to Dev Tech Blogs</small></div>
 				<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_0e25126063c9c97a48d665d46_a797462a9d" tabindex="-1" value=""></div>
 			</div>
@@ -65,6 +67,16 @@ function toggleHidden(id){
 			</div>
 	
             </form>
+		</div>
+		<div>
+		<h2>Progressive Web App</h2>
+		As an alternate, follow these steps to quickly install Progressive Web App(PWA) version of Dev Tech Blogs to your mobile device:
+		<ul>
+		<li>Open https://devtechblogs.com address in your browser.</li>
+		<li>Open your browser’s settings.</li>
+		<li>Scroll down and tap 'Add to Home screen'</li>
+		<li>Confirm by tapping Add.</li>
+		</ul>
 		</div>
 </div>
 	
