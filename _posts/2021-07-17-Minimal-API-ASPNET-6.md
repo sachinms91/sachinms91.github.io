@@ -10,7 +10,6 @@ image: "https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/MinimalAPI/Blo
 
  ![BlogImage](https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/MinimalAPI/BlogPostHeader.png)
 
-## Background
 
 Building lightweight APIs in ASP\. NET Core was not possible until .NET 6. Developers were confined to use the MVC pattern of Web API's which was a bit overwhelming for beginners.
 

@@ -10,8 +10,6 @@ image: "https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/GlobalUsings/g
 
 ![BlogImage](https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/GlobalUsings/globalusings-in-csharp10.png)
 
-## Background
-
 Every C# class file begins with a list of ```using``` statements that are necessary for implementation. Much of this code is repetitive and takes up more bytes in files.
 
 If we create an ASP NET Core Web Application(MVC) with Visual Studio 2022 preview or higher with .NET 6 SDK we will be getting the below code in ```HomeController.cs```
