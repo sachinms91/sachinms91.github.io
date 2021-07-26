@@ -138,7 +138,7 @@ Console.WriteLine(args);
 ```
 ## When should you not move an import statement to global using?
 
-Moving functionality specific namepsaces to global using is not recommended always. At times it may reduce the readibilty for a new developer looking at the code. For example moving ```Microsoft.AspNetCore.SignalR;``` to global using may not provide an idea to developer that the functionality deals with SignalR.  
+Moving functionality specific namepsaces to global using is not recommended always. At times it may reduce the readibilty for a new developer looking at the code. For example moving ```Microsoft.AspNetCore.SignalR``` to global using may not provide an idea to developer that the functionality deals with SignalR.  
 
 ```cs
 using System;
@@ -157,7 +157,7 @@ public class ViewHub : Hub
 }
 ```
 
-Hence the ideal approach would be to move ```System``` and ```System.Threading.Tasks``` to ```Using.cs``` and retain  ```Microsoft.AspNetCore.SignalR;``` in same file:
+Hence the ideal approach would be to move ```System``` and ```System.Threading.Tasks``` to ```Using.cs``` and retain  ```Microsoft.AspNetCore.SignalR``` in same file:
 
 ```cs
 using Microsoft.AspNetCore.SignalR;
