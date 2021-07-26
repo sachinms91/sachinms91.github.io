@@ -57,7 +57,7 @@ namespace GlobalUsingsDemoApp.Controllers
 As you can see from above that most of these namespaces imported here are likely to be required in other .cs files as well. The developer will end up writing multiple imports of the same namespace in multiple .cs files. To Avoid this with C# 10.0 Microsoft introduced the concept of declaring and importing namespaces globally.
 
 ## Adding Global 'Using.cs' file to a project in .NET 6
-Add a new file called ```Using.cs``` (can be added to the project root level. The name of the file can be anything) and start importing most likely used namespaces in this file by prefixing with  ````global``` keyword. 
+Add a new file called ```Using.cs``` (can be added to the project root level. The name of the file can be anything) and start importing most likely used namespaces in this file by prefixing with  ```global``` keyword. 
 
 ![BlogImage](https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/GlobalUsings/usings-in-vs2022.PNG)
 
