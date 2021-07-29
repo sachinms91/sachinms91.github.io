@@ -1,5 +1,6 @@
 ---
 title: Tips and Tricks for CKAD exam
+description: This article provides tricks and tips  required to prepare and clear CKAD exam
 author: Sachin M S
 header-img: "https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/thumbnails/ckad.png"
 date: 2021-06-21 00:30:00 +0800

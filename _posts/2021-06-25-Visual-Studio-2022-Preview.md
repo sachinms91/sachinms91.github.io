@@ -1,5 +1,6 @@
 ---
 title: Visual Studio 2022 will be a 64 bit application and how? 
+description: Let's understand what it means for Visual Studio to be called as a 64 bit application
 author: Sachin M S
 header-img: "https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/VS2022Preview/BlogImage.png"
 date: 2021-06-25 18:20:00 +0330

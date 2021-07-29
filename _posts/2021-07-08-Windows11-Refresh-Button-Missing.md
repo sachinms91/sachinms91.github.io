@@ -1,5 +1,6 @@
 ---
 title: Refresh button missing from right click context menu in Windows 11
+description: Refresh button in Windows 11 preview has disappeared
 author: Sachin M S
 header-img: "https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/Windows11/Windows11.jpg"
 date: 2021-07-09 00:35:00 +0330

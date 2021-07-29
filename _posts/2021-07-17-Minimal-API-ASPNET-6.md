@@ -1,5 +1,6 @@
 ---
 title: Build a Minimal API in .NET 6
+description: ASP.NET 6 has introduced new of building lightweight API with less ceremonies associated with them 
 author: Sachin M S
 header-img: "https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/MinimalAPI/BlogPostHeader.jpg"
 date: 2021-07-17 17:15:00 +0330
