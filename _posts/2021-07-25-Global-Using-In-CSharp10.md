@@ -1,6 +1,7 @@
 ---
 title: Global Using in C# 10
 author: Sachin M S
+description: Global Using is a new feature introduced with C# 10.0 to eliminate multiple  import statemtns in class files
 header-img: "https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/GlobalUsings/globalusings-in-csharp10.png"
 date: 2021-07-25 20:00:00 +0330
 categories: [Technology, C#10]
