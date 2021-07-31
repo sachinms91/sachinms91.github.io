@@ -103,3 +103,5 @@ app.Run();
 For more information on Minimal API please refer to the below video from David Fowler, Damian Edwards, Stephen Halter and Jon Galloway showcased in **ASP\. NET Community Standup - Minimal APIs**
 
 [![ASPNETCommunityStandUpVideo](https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/MinimalAPI/YTVideoThumbnail.jpg )](https://www.youtube.com/watch?v=enAskgcF0c0) 
+
+<p class="text-danger">PS: Minimal API in .NET 6 is still in preview phase. Some of the internals of Minimal API may change when a stable .NET 6 release hits the market around November 2021.</p>
