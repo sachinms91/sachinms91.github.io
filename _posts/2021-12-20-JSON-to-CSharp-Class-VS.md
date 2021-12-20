@@ -8,7 +8,6 @@ categories: [Technology, Visual Studio 2022]
 tags: [VS Tips and Tricks]
 image: "https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/JSON2CSharp/globalusings-in-csharp10.png"
 ---
-# JSON object to C# class in Visual Studio
 ![BlogImage](https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/JSON2CSharp/PasteSpecial.png)
 
 JSON stands for Javascript Object Notation used for storing and transferring data. Converting a JSON object to C# class type is one of the common scenario in cases where both sender and receiver agree upon a predefined set of  message contracts. Especially in an event driven messaging architecture systems (such as Azure Service Bus, Rabbit MQ etc.)
