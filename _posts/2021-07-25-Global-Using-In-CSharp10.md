@@ -15,6 +15,7 @@ Every C# class file begins with a list of ```using``` statements that are necess
 
 If we create an ASP NET Core Web Application(MVC) with Visual Studio 2022 preview or higher with .NET 6 SDK we will be getting the below code in ```HomeController.cs```
 
+{% include codeHeader.html %}
 ```cs
 using GlobalUsingsDemoApp.Models;
 using Microsoft.AspNetCore.Mvc;
@@ -64,6 +65,7 @@ Add a new file called ```Using.cs``` (can be added to the project root level. Th
 
 The content of ```Using.cs``` will be:
 
+{% include codeHeader.html %}
 ```cs
 global using GlobalUsingsDemoApp.Models;
 global using Microsoft.AspNetCore.Mvc;
@@ -77,6 +79,7 @@ global using System.Threading.Tasks;
 
 That's it! Now your ```HomeController.cs``` can be simplified  and it can start referring classes defined namespaces present in ```Using.cs```
 
+{% include codeHeader.html %}
 ```cs
 namespace GlobalUsingsDemoApp.Controllers
 {
@@ -111,6 +114,7 @@ namespace GlobalUsingsDemoApp.Controllers
 
 Top-level statements enable developers to avoid the extra ceremony required by placing the program's entry point in a static method in a class. The typical starting point for a new console application looks like the following code:
 
+{% include codeHeader.html %}
 ```cs
 using System;
 
@@ -141,6 +145,7 @@ Console.WriteLine(args);
 
 Moving functionality specific namepsaces to global using is not recommended always. At times it may reduce the readibilty for a new developer looking at the code. For example moving ```Microsoft.AspNetCore.SignalR``` to global using may not provide an idea to developer that the functionality deals with SignalR.  
 
+{% include codeHeader.html %}
 ```cs
 using System;
 using System.Threading.Tasks;
@@ -160,6 +165,7 @@ public class ViewHub : Hub
 
 Hence the ideal approach would be to move ```System``` and ```System.Threading.Tasks``` to ```Using.cs``` and retain  ```Microsoft.AspNetCore.SignalR``` in same file:
 
+{% include codeHeader.html %}
 ```cs
 using Microsoft.AspNetCore.SignalR;
 

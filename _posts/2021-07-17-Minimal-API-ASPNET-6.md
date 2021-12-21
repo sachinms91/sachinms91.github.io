@@ -35,6 +35,7 @@ Minimal API's also help to build  smaller microservices-based API's
 
 Open windows terminal/command prompt from any folder and type the below command and open the folder in Visual Studio. Please ensure you have at least .NET 6 preview 6 SDK version installed for this to work.
 
+{% include codeHeader.html %}
 ```csharp
 dotnet new web -o MinApi
 ```
@@ -43,6 +44,7 @@ dotnet new web -o MinApi
 
 That's it! You have your first minimal API ready. Whatever goes into the lambda function (2nd parameter to MapGet method) below acts as an API endpoint.  
 
+{% include codeHeader.html %}
 ```csharp
 app.MapGet("/", () => "Hello World!");
 ```
@@ -59,6 +61,7 @@ It is evident from above that developers can now write APIs in ASP\. NET Core wi
 Let us say if we want to offload the logic of the API endpoint to a separate file or a service rather than writing inside a lambda function. This can be achieved by importing ```Microsoft.Extensions.DependencyInjection``` namespace. The below example shows how to invoke a service method inside ```app.MapGet``` method. 
  
  ```ToDoService.cs``` file: 
+ {% include codeHeader.html %}
  ```csharp
  namespace MinApi.ToDoService
 {
@@ -77,6 +80,7 @@ Let us say if we want to offload the logic of the API endpoint to a separate fil
  ```
  
  ```Program.cs``` file:
+ {% include codeHeader.html %}
  ```csharp
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Http;
