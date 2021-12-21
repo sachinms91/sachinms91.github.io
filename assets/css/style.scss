@@ -4,4 +4,49 @@
 // see: /_sass/addon/commons.scss
 $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
 
-@import "jekyll-theme-chirpy";
+@import "{{site.theme}}";
+.code-header {
+	  display: flex;
+	  justify-content: flex-end;
+	  padding: 0px 20px 0px 0px;
+    }
+
+.highlighter-rouge {
+	margin-top: 0em;
+}
+
+.code-header button {
+	width: 3.5rem
+}
+
+.copy-code-button {
+		display: grid;
+	        grid-auto-flow: column;
+		align-items: center;
+		grid-column-gap: 1px;
+		border: none;
+		cursor: pointer;
+		font-size: 1rem;
+		padding: 2px 4px;
+
+		&::before {
+			content: "Copy";
+		 }
+
+		&::after {
+			content: " 📋";
+			display: block;
+		}
+
+		 // This class will be toggled via JavaScript
+		&.copied {
+			&::before {
+				content: "Copied!";
+				}
+
+		 	&::after {
+				content: "✔️";
+			}														  }		
+		
+	}
+

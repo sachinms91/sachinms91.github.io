@@ -25,6 +25,7 @@ VS Studio out of the box provides this feature if the *ASP.NET and Web Developme
 2. Copy JSON data to clipboard 
 3. Open the .cs file and navigate to Edit -> Paste Special -> Paste JSON as Class 
 
+{% include codeHeader.html %}
 ```json
 {
 Employees: [{
@@ -59,8 +60,9 @@ Employees: [{
 }
 ```
 
+{% include codeHeader.html %}
 ```csharp
-	public class EmployeeList
+    public class EmployeeList
     {
         public Employee[] Employees { get; set; }
     }
