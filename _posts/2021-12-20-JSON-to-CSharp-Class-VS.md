@@ -8,8 +8,9 @@ categories: [Technology, Visual Studio 2022]
 tags: [VS Tips and Tricks]
 image: "https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/JSON2CSharp/globalusings-in-csharp10.png"
 ---
-![BlogImage](https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/JSON2CSharp/PasteSpecial.png)
- Fig. 1 - Visual Studio option tp 'Paste JSON as Class'
+|![BlogImage](https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/JSON2CSharp/PasteSpecial.png)|
+ |:--:|
+ |Fig. 1 - Visual Studio option tp 'Paste JSON as Class'|
 
 
 JSON stands for Javascript Object Notation used for storing and transferring data. Converting a JSON object to C# class type is one of the common scenarios in cases where both sender and receiver agree upon a predefined set of message contracts. Especially in an event-driven messaging architecture system (such as Azure Service Bus, Rabbit MQ, etc.)
@@ -76,8 +77,9 @@ public class EmployeeList
 ```
 Note: Make sure that the JSON copied to the clipboard is valid and well-formatted(Use Notepad++ for this) else VS will throw an error as shown below:
 
-![Fig2](https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/JSON2CSharp/PasteSpecialError.png)
- Fig. 2 - Visual Studio error in case of invalid JSON being pasted using 'Paste Special'
+|![Fig2](https://cdn.jsdelivr.net/gh/sachinms91/blog-images/images/JSON2CSharp/PasteSpecialError.png)|
+ |:--:|
+ |Fig. 2 - Visual Studio error in case of invalid JSON being pasted using 'Paste Special'|
 
 
 Hope this information is useful next time when you need it!
