@@ -19,8 +19,8 @@ title: Dev Tech Blogs                       # the main title
 
 tagline: A blog for Developers # it will display as the sub-title
 
-description: >-                        # used by seo meta and the atom feed
-Dev Tech Blogs, blog for developers, .NET technology blog, ASP.NET, C#, .NET Core, React, SQL and Microsoft Azure 
+# used by seo meta and the atom feed
+description: Dev Tech Blogs, blog for developers, .NET technology blog, ASP.NET, C#, .NET Core, React, SQL and Microsoft Azure 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://devtechblogs.com'
