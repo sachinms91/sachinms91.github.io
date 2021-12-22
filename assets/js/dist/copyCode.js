@@ -1,5 +1,5 @@
 $(document).ready(function() {
-const codeBlocks = document.querySelectorAll('.code-header + .highlighter-rouge');
+const codeBlocks = document.querySelectorAll('.rouge-code');
 const copyCodeButtons = document.querySelectorAll('.copy-code-button');
 
 copyCodeButtons.forEach((copyCodeButton, index) => {
