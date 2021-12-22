@@ -20,7 +20,7 @@ title: Dev Tech Blogs                       # the main title
 tagline: A blog for Developers # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Blogs related developers and technologies especially into ASP.NET, C#, .NET Core, ReactJS and Microsoft Azure 
+Dev Tech Blogs, blog for developers, .NET technology blog, ASP.NET, C#, .NET Core, React, SQL and Microsoft Azure 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://devtechblogs.com'
@@ -65,7 +65,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
+theme_mode: [dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -86,7 +86,7 @@ disqus:
   comments: false  # boolean type, the global switch for posts comments.
   shortname: 'sachinms91' # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
-paginate: 10
+paginate: 15
 
 # ------------ The following options are not recommended to be modified ------------------
 
