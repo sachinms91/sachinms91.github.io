@@ -34,5 +34,5 @@ One can also change the mouse pointer to any desired color of mouser pointer by 
 
 ## Conclusion
 
-The mouse pointer for Windows 11 by default is white in color with a black outline. Few users with poor vision could have some difficulty with this color and can be that can be changed via Accessibility settings
+The mouse pointer for Windows 11 by default is white in color with a black outline. Few users with poor vision could have some difficulty with this color and that can be changed via Accessibility settings
 Hope this information is useful next time when you need it!
